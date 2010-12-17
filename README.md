@@ -1,7 +1,7 @@
-## Simple gem template
+# Gem Skeleton
 
-A simple gem template which uses bundler and expects tests to be written
-with rspec. Just for my own tests.
+A simple gem skeleton template for starting new gem projects from scratch. Uses
+bundler and expects tests to be written with rspec. Intended for my own use.
 
 ---
 
